@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <h3 align="center">Python Practice</h3>
+  <h3 align="center">Python</h3>
 
   <p align="center">
     A collection of python questions i solve while learning and improving my problem-solving skills.
@@ -42,7 +42,7 @@
 
 ## About The Project
 
-Python Practice is a collection of python questions that i solve while learning and improving my problem-solving skills.
+Python is a collection of python questions that i solve while learning and improving my problem-solving skills.
 
 I use this repo to practice what i learn and keep my solutions in one place.
 
@@ -98,24 +98,6 @@ read → think → solve → add
 ```
 
 The questions are there for anyone to practice, while the solutions show how i solved them.
-
-## Contributing
-
-This is mainly my personal practice repo, but suggestions and new questions are welcome.
-
-If you want to contribute:
-
-1. fork the project
-2. create your feature branch
-3. add your changes
-4. open a pull request
-
-### Top contributors:
-
-<a href="https://github.com/kunjannpokhrel/Python/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kunjannpokhrel/Python" alt="top contributors" />
-</a>
-
 
 
 ## Contact
