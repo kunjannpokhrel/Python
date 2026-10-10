@@ -4,6 +4,4 @@
 
 number=input("Enter Your Number: ")
 for j in range(1,11):
-    for i in number:
-     print(f"{i}*{j}={int(i)*j}")
-
+ print(f"{number}*{j}={int(number)*j}")
